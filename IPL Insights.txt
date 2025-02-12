@@ -1,0 +1,72 @@
+IPL Insights 
+
+IPL Insights (2008-2022)
+Top Run-Scorers
+Virat Kohli – 6,634 runs
+Shikhar Dhawan – 6,244 runs
+David Warner – 5,883 runs
+Rohit Sharma – 5,881 runs
+Suresh Raina – 5,536 runs
+Top Wicket-Takers
+Dwayne Bravo – 207 wickets
+Lasith Malinga – 188 wickets
+Amit Mishra – 175 wickets
+Ravichandran Ashwin – 174 wickets
+Yuzvendra Chahal – 172 wickets
+Most Successful Teams (Wins)
+Mumbai Indians – 131 wins
+Chennai Super Kings – 121 wins
+Kolkata Knight Riders – 114 wins
+Royal Challengers Bangalore – 109 wins
+Rajasthan Royals – 96 wins
+Toss Impact (Win % After Winning Toss)
+Rising Pune Supergiant – 83.3%
+Gujarat Titans – 70.0%
+Chennai Super Kings – 62.4%
+Mumbai Indians – 56.9%
+Kolkata Knight Riders – 56.1%
+Margin of Victory Trends
+Average winning margin: 17 runs
+Largest victory: 146 runs
+Median victory margin: 8 runs
+
+Season-Wise Trends (2008-2022)
+Total Runs Per Season
+Highest-scoring season: 2022 (23,052 runs)
+Lowest-scoring season: 2009 (15,376 runs)
+General trend: Runs per season have increased over time, peaking in 2022.
+Total Wickets Per Season
+Highest wickets taken: 2013 & 2022 (912 wickets)
+Lowest wickets taken: 2016 (666 wickets)
+Observation: Wickets per season have fluctuated but remained between 670-910 in most seasons.
+Matches Played Per Season
+Most matches: 2022 (74 matches)
+Least matches: 2009 (57 matches)
+Trend: The number of matches increased in seasons with more teams.
+Average Runs Per Match
+Highest average: 2022 (311.5 runs/match)
+Lowest average: 2009 (269.8 runs/match)
+Trend: Teams are scoring more runs per match in recent seasons.
+Average Wickets Per Match
+Highest average: 2022 (12.32 wickets/match)
+Lowest average: 2016 (11.1 wickets/match)
+Trend: Wickets per match have remained steady around 11-12 wickets.
+
+Powerplay & Death-Over Trends (2008-2022)
+Powerplay (Overs 1-6)
+Highest powerplay runs: 2022 (6,694 runs)
+Lowest powerplay runs: 2009 (4,620 runs)
+Highest powerplay wickets lost: 2022 (214 wickets)
+Lowest powerplay wickets lost: 2016 (155 wickets)
+Powerplay run rate trend: Increased from 13.5 (2009) to 15.07 (2022)
+Death Overs (Overs 16-20)
+Highest death-over runs: 2022 (5,185 runs)
+Lowest death-over runs: 2007/08 (3,410 runs)
+Most wickets in death overs: 2013 & 2022 (298 & 273 wickets)
+Fewest wickets in death overs: 2020/21 (207 wickets)
+Death-over run rate trend: Increased from 11.7 (2007) to 14.01 (2022)
+
+Observations:
+Powerplay scoring has steadily increased, but wickets lost have also risen in recent seasons.
+Death-over hitting has improved, showing higher run rates in recent IPL seasons.
+Teams now take more risks in the powerplay and explode in the death overs.
